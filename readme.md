@@ -9,24 +9,24 @@ About Us Page<br>
 Menu Page (Online Booking Menu)<br>
 ![ss](screenshots/menu.png)
 Login Page<br>
-![ss](screenshots/login.png)
+![ss](screenshots/login.png)<br>
 Creating account Page<br>
-![ss](screenshots/create-acc.png)
+![ss](screenshots/create-acc.png)<br>
 Account created<br>
-![ss](screenshots/successful.png)
+![ss](screenshots/successful.png)<br>
 Data stored in google sheet<br>
-![ss](screenshots/login-data.png)
+![ss](screenshots/login-data.png)<br>
 Login<br>
-![ss](screenshots/success-login.png)
+![ss](screenshots/success-login.png)<br>
 Login Failed<br>
-![ss](screenshots/invalid-account.png)
+![ss](screenshots/invalid-account.png)<br>
 Dinning Menu<br>
-![ss](screenshots/dinning-menu.png)
+![ss](screenshots/dinning-menu.png)<br>
 Event Page<br>
-![ss](screenshots/book-table.png)
+![ss](screenshots/book-table.png)<br>
 Sending data to whatsapp<br>
-![ss](screenshots/to-whatapp.png)
+![ss](screenshots/to-whatapp.png)<br>
 Contact Us Page<br>
-![ss](screenshots/feedback.png)
+![ss](screenshots/feedback.png)<br>
 Storing feedback data in a google sheet<br>
-![ss](screenshots/feedback-status.png)
+![ss](screenshots/feedback-status.png)<br>
