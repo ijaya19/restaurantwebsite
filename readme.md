@@ -7,26 +7,26 @@ Home Page<br>
 About Us Page<br>
 ![Liked-page](screenshots/about-us.png)
 Menu Page (Online Booking Menu)<br>
-![playlist](screenshots/menu.png)
+![ss](screenshots/menu.png)
 Login Page<br>
-![playlist](screenshots/login.png)
+![ss](screenshots/login.png)
 Creating account Page<br>
-![playlist](screenshots/create-acc.png)
+![ss](screenshots/create-acc.png)
 Account created<br>
-![playlist](screenshots/successful.png)
+![ss](screenshots/successful.png)
 Data stored in google sheet<br>
-![playlist](screenshots/login-data.png)
+![ss](screenshots/login-data.png)
 Login<br>
-![playlist](screenshots/success-login.png)
+![ss](screenshots/success-login.png)
 Login Failed<br>
-![playlist](screenshots/invalid-account.png)
+![ss](screenshots/invalid-account.png)
 Dinning Menu<br>
-![playlist](screenshots/dinning-menu.png)
+![ss](screenshots/dinning-menu.png)
 Event Page<br>
-![playlist](screenshots/book-table.png)
+![ss](screenshots/book-table.png)
 Sending data to whatsapp<br>
-![playlist](screenshots/to-whatapp.png)
+![ss](screenshots/to-whatapp.png)
 Contact Us Page<br>
-![playlist](screenshots/feedback.png)
+![ss](screenshots/feedback.png)
 Storing feedback data in a google sheet<br>
-![playlist](screenshots/feedback-status.png)
+![ss](screenshots/feedback-status.png)
